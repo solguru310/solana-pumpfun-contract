@@ -44,4 +44,4 @@ In this smart contract, I set creating LP FEE as 5% of Reserves.
 
 
 ## Contact me
-Telegram: [@derricklee918](https://t.me/@derricklee918)
+Telegram: [@dwlee918](https://t.me/@dwlee918)
